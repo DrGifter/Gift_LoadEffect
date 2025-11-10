@@ -1,11 +1,11 @@
 # Hiệu ứng loading
 
->Cre: https://uiverse.io/
-
 > Video Demo: [Xem tại đây](https://www.tiktok.com/@dr.gifter306/video/7570937989212278034)
 
-> Video hướng dẫn: [Xem tại đây](https://drive.google.com/file/d/1xXZ-IXxMqBVU8TrOuHTWQJ_35uZhr2XI/view?usp=sharing)
+## 📚Thư viện mã nguồn mở Uiverse  
 
+[Uiverse.io](https://uiverse.io/) là một nguồn tài nguyên rất tốt dành cho việc phát triển giao diện người dùng — cung cấp hàng nghìn thành phần UI miễn phí, dễ sử dụng, hỗ trợ nhiều định dạng và công nghệ. Nếu bạn đang làm web/app và cần đẩy nhanh tiến độ giao diện hoặc học hỏi cách xây dựng UI, trang này là lựa chọn đáng tham khảo.
 
+## 🖼️Ảnh Demo 
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/edfbe0bb-eec2-43dc-94a5-f276d8528069" />
 
